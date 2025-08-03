@@ -25,7 +25,7 @@ If you want to view this web page in your browser:
 1. Clone or download the repo.
 2. Open `index.html` with any web browser (e.g., Chrome, Firefox).
 
-## 🚀 Live Preview (optional)
+## 🚀 Live Preview
 
 [Live Preview](https://ezzzinne.github.io/Karatu-1/)
 
